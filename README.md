@@ -2,6 +2,3 @@ Este é um dos meus primeiros projetos 😄. Desenvolvi um design de interface d
 
 
 
-
-https://user-images.githubusercontent.com/78566330/164742085-c8f92418-f79d-4b89-9526-74bf801a2f64.mp4
-
