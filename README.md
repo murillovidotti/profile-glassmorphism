@@ -2,5 +2,6 @@
 
 
 Este é um dos meus primeiros projetos.👨‍💻 Desenvolvi um design de interface de usuário com estilo Glassmorphism. Este background é parcialmente transparente como um vidro desfocado que utilizei com próprio CSS. Também implementei um efeito de inclinação neste design, com interação com o cursor do mouse.
+Link do projeto:https://murillovidotti.github.io/profile-glassmorphism/
 
 
